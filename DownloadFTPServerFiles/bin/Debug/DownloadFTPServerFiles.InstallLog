@@ -1,0 +1,234 @@
+﻿Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Creating EventLog source FTPFilesDownload in log Application...
+Rolling back assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Restoring event log to previous state for source FTPFilesDownload.
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe
+Installing service FTPFilesDownload...
+Service FTPFilesDownload has been successfully installed.
+Creating EventLog source FTPFilesDownload in log Application...
+Committing assembly 'E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.InstallLog
+   assemblypath = E:\Development\FTPServerDownloadFilesApplication\DownloadFTPServerFiles\DownloadFTPServerFiles\bin\Debug\DownloadFTPServerFiles.exe

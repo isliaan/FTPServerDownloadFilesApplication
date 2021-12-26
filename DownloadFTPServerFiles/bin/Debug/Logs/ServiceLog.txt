@@ -1,0 +1,6 @@
+File Download Service Started: 12/22/2021 6:17:18 PM
+File Download Mode: INTERVAL
+File Download scheduled to run after: 0 day(s) 0 hour(s) 4 minute(s) 55 seconds(s)
+CM_MTM_Prices_22122021.txt 2021-12-22 04:08PM
+File Download Service Ended: 12/22/2021 6:17:18 PM
+File Download stopped: 12/22/2021 6:19:43 PM
